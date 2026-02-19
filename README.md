@@ -3,7 +3,7 @@
 Frontend Developer Portfolio Website
 
 ## Tech Stack
-HTML, CSS, JavaScript, React
+HTML, CSS, JavaScript, React, Wordpress, photoshop, figma, Canva
 
 ## Features
 - Responsive Design
@@ -14,5 +14,5 @@ HTML, CSS, JavaScript, React
 https://your-link.vercel.app
 
 ## Author
-Your Name
+Mohammad Vaish
 Frontend Developer
